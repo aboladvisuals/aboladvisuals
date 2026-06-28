@@ -1,16 +1,25 @@
-## Hi there 👋
+# Emmanuel Abolade
 
-<!--
-**aboladvisuals/aboladvisuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring Data Analyst based in Hull, UK, with hands-on skills in SQL, PostgreSQL, Python, Power BI, Excel, Git/GitHub, and AWS.
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights through analytics, dashboards, and data storytelling. Currently building projects in data analytics, business intelligence, and cloud data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- PostgreSQL
+- Python
+- Power BI
+- Excel
+- Git/GitHub
+- AWS
+
+## Certifications
+- [freeCodeCamp Relational Database Certification (2026) — 98%](https://www.freecodecamp.org/certification/abolad1/relational-databases-v9)
+- AWS Skill Builder Certifications
+- Pitman Training Data Analyst Diploma (In Progress)
+
+## Projects
+- World Cup Database Project
+- Power BI Dashboard
+- SQL Analytics Projects
